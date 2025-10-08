@@ -54,7 +54,7 @@ print("🚀 Ready to analyze Airbnb data!")
 
 # Load the Airbnb Dataset
 try:
-    df = pd.read_excel("F:\\VOIS_AICTE_Oct_2025_AdityaRaj\\1730285881-Airbnb_Open_Data.xlsx")
+    df = pd.read_excel("F:\\VOIS_AICTE_Oct_2025_Mouli\\1730285881-Airbnb_Open_Data.xlsx")
     print("✅ Dataset loaded successfully!")
     print(f"📊 Dataset shape: {df.shape}")
     print(f"📋 Columns: {df.shape[1]} | Rows: {df.shape[0]}")
